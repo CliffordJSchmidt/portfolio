@@ -1,0 +1,49 @@
+p {
+  font-size: 120%;
+  align-self: center; }
+
+h1 {
+  margin-top: 5px;
+  font-size: 240%;
+  align-self: center; }
+
+h2 {
+  font-size: 180%;
+  align-self: center;
+  max-width: 100%;
+  margin-top: 5px; }
+
+h3 {
+  font-size: 200%;
+  align-self: center;
+  margin-bottom: 5px; }
+
+.imagegallery {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: center;
+  align-content: center;
+  margin-left: auto;
+  margin-right: auto; }
+
+.imagegallery ul {
+  margin: 0;
+  margin-left: auto;
+  margin-right: auto; }
+
+.contentwrapper {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  justify-content: space-around;
+  align-content: space-between;
+  overflow-y: scroll;
+  overflow-x: hidden; }
+
+.middlecontent {
+  display: flex;
+  flex-direction: column; }
+
+/*# sourceMappingURL=portfolio.css.map */

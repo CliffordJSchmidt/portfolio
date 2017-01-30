@@ -1,0 +1,53 @@
+
+
+h1{
+    margin-top:5px;
+    font-size: 240%;
+    align-self: center;
+  
+    
+   
+}
+
+h2{
+    font-size: 180%;
+    align-self: flex-start;
+    max-width: 75%;
+  
+   
+}
+
+h3{
+    font-size: 200%;
+    align-self: center;
+    margin-bottom: 5px;
+  
+}
+
+.contactform{
+    
+
+}
+
+
+.middlecontent{
+    display:flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    justify-content:space-around;
+    align-content: space-between;
+    overflow-y:scroll;
+    overflow-x:hidden;
+   
+}
+
+
+section{
+    margin-top:10px;
+    margin-bottom: 10px;
+   
+}
+
+p{
+    font-size: 120%;
+}
