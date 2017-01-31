@@ -1,3 +1,4 @@
 node_modules
 /phploy.*
 /deployment.*
+/scss
